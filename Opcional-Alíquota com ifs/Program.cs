@@ -20,7 +20,7 @@ namespace Opcional_Alíquota_com_ifs
             bool regraIR4 = salario > 3751.0 && salario <= 4664.0;
             bool regraIR5 = salario > 4664.0;
 
-            
+            //TESTE COMENTARIO
             if (regraIR1)
             {
                 Console.WriteLine("Salário é de R$ " + salario + "\nMenor que o Valor minimo, nesse caso não existe dedução de IR!");

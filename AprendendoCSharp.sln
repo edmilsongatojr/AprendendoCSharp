@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Esco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opcional-Alíquota com ifs", "Opcional-Alíquota com ifs\Opcional-Alíquota com ifs.csproj", "{FDA7E748-920B-44B4-8920-98B6E6C9F268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CalculaPoupanca", "10-CalculaPoupanca\10-CalculaPoupanca.csproj", "{5D75E044-2C30-4F78-AB71-F3D60655624B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{5D75E044-2C30-4F78-AB71-F3D60655624B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
